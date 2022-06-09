@@ -14,9 +14,9 @@ function hasCola(str) {
 hasCola("와 사이다가 짱이야"); // -1  if(-1) -> true값이 반환됨
 hasCola("무슨소리, 콜라가 최고");
 hasCola("콜라"); // 0
-
-![screenshot1](../image/screenshot1.png)
 ```
+![screenshot1](../image/screenshot1.png)
+
 
 ```javascript
 // 금칙어 : 콜라
@@ -32,7 +32,5 @@ function hasCola(str) {
 hasCola("와 사이다가 짱이야"); // -1
 hasCola("무슨소리, 콜라가 최고");
 hasCola("콜라"); // 0
-
-
-![screenshot1](../image/screenshot2.png)
 ```
+![screenshot1](../image/screenshot2.png)
